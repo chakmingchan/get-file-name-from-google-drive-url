@@ -1,6 +1,6 @@
 # Get file name from google links
-* Use Google Sheets
-* Useful for getting file name of links obtained from file sumbit with google form.
+* Get the file names from google drive links, https://drive.google.com/open?id=XXXXX.
+* Run a function using Apps Script under Google Sheets
 
 # Usage
 * Create an new google sheet, and two sheets with name "data" and "output".
