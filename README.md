@@ -3,7 +3,7 @@
 * Run a function using Apps Script under Google Sheets
 
 # Usage
-* Create an new google sheet, and two sheets with name "data" and "output".
+* Create a new workbook with Google Sheets and two sheets named "data" and "output".
 * Put all the links in the column A of "data" sheet. The tested format of link is https://drive.google.com/open?id=XXXXX, where XXXXX is an ID.
 * Click "Extensions" and then "Apps Script". Copy and paste the function `getFileName()` in `Code.gs`, and specify `numRow`.
 * Click "Run" to execute the function. The file names will be appeared in column B of "output" sheet.
