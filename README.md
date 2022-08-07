@@ -1,5 +1,5 @@
-# Get file name from google links
-* Get the file names from google drive links, https://drive.google.com/open?id=XXXXX.
+# Get file name from google drive URLs
+* Get the file names from google drive URLs, https://drive.google.com/open?id=XXXXX.
 * Run a function using Apps Script under Google Sheets
 
 # Usage
